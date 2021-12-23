@@ -9,3 +9,10 @@ This first part was pretty easy, I made the index and I added the first recipe w
 Im really having fun with this project. 
 
 The only thing left to do is add two recipes more.
+
+Final Update:
+I understood the instructions easily also I could make the website really fast.
+At the end I added the last 2 recipes (the cookies and pizza), all the recipes
+were made with dummy text (bc im too lazy).
+
+This is my last update.
