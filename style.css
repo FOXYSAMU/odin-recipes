@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+} 
+
+.header a {
+    text-decoration: none;
+    color: white;
+}
+
+.header {
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#body {
+    background-color: black;
+}
+
+li {
+    font-size: 20px;
+    padding:100pt;
+    display:inline;
+    
+}
+
+ul {
+    padding-top: 100px;
+    text-align: center;
+}
+
+li a {
+    text-decoration-color: gray;
+    color: white;
+}
+
+.odin {
+    margin-top: 2em;
+    text-align: center;
+}
+
+#option {
+    top: 7px;
+    position: fixed;
+    filter: invert();
+}

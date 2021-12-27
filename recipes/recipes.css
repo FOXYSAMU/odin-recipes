@@ -1,0 +1,31 @@
+
+body {
+    background-color: black;
+}
+
+h1,
+h3,
+h2 {
+    text-align: center;
+    color: white;
+}
+
+.images {
+    text-align: center;
+}
+
+p,
+ol,
+ul{
+    color:white;
+}
+
+li{
+    margin-top: 1em;
+}
+
+#option {
+    top: 7px;
+    position: fixed;
+    filter: invert();
+}
